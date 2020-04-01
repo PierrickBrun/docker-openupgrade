@@ -1,4 +1,4 @@
-openupgradelib==2.0.0
+openupgradelib==3.0.0
 
 # viivakoodi is a fork of pyBarcode
 viivakoodi
