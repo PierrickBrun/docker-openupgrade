@@ -4,7 +4,7 @@ odoo:
         sylvain: https://github.com/legalsylvain/OpenUpgrade.git
         oca: https://github.com/OCA/OpenUpgrade.git
     merges:
-        - oca 9.0
+        - ak 9-fix_account_move_line_ascii
 
 account-financial-reporting:
     src: https://github.com/OCA/account-financial-reporting 9.0
